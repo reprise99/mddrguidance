@@ -1,7 +1,7 @@
 # MDDR Guidance
 Links and guidance related to the return on mitigation report in the Microsoft Digital Defense Report - [Microsoft Digital Defense Report](aka.ms/mddr)
 
-![image](https://github.com/reprise99/mddrguidance/assets/88635951/5bc7e243-d144-4264-a39a-e6dcfa89d694)
+![image](https://github.com/reprise99/mddrguidance/assets/88635951/1d550a11-fcba-4793-b232-3e70b225f28c)
 
 These statistics show the percentage of customers that have the issues highlighted and then seeks to map the controls to give customers direction on where investment is best placed
 
