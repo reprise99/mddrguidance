@@ -57,10 +57,10 @@ A video from Trimarc security on how to get quick security wins in Active Direct
 A blog from the Microsoft Detection and Response Team on issues seen in Active Directory in real life compromises
 
 #### [Certified Pre-owned](https://posts.specterops.io/certified-pre-owned-d95910965cd2)
-A blog covering common misconfigurations in ADCS that allow domain domination 
+A blog from SpecterOps covering common misconfigurations in ADCS that allow domain domination 
 
 #### [Locksmith](https://github.com/TrimarcJake/Locksmith)
-Locksmith is a lightweight tool that queries ADCS and can detect and remediate misconfigurations
+Locksmith is a lightweight tool developed by Trimarc security that queries ADCS and can detect and remediate misconfigurations
 
 ### Insufficient device security controls
 
