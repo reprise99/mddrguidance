@@ -1,5 +1,5 @@
 # MDDR Guidance
-Links and guidance related to the return on mitigation report in the Microsoft Digital Defense Report - [Microsoft Digital Defense Report](aka.ms/mddr)
+Links and guidance related to the return on mitigation report in the Microsoft Digital Defense Report - [Microsoft Digital Defense Report](https://aka.ms/mddr)
 
 ![image](https://github.com/reprise99/mddrguidance/assets/88635951/1d550a11-fcba-4793-b232-3e70b225f28c)
 
