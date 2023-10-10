@@ -5,6 +5,8 @@ Links and guidance related to the return on mitigation report in the Microsoft D
 
 These statistics show the percentage of customers that have the issues highlighted and then seeks to map the controls to give customers direction on where investment is best placed
 
+Below are listed various links and resources for each issue and guidance to address them
+
 ## High
 
 ### Poor user lifecycle management
