@@ -3,11 +3,11 @@ Links and guidance related to the return on mitigation report in the Microsoft D
 
 ![image](https://github.com/reprise99/mddrguidance/assets/88635951/1d550a11-fcba-4793-b232-3e70b225f28c)
 
-These statistics show the percentage of customers that have the issues highlighted and then seeks to map the controls to give customers direction on where investment is best placed
+These statistics show the percentage of customers that have the issues highlighted and then seeks to prioritze the controls and remediation actions to give customers direction on where investment is best placed
 
 Below are listed various links and resources for each issue and guidance to address them
 
-## High
+## Higher
 
 ### Poor user lifecycle management
 
